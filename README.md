@@ -11,7 +11,7 @@ Unlike standard conversational chatbots that simply generate text, this system u
 
 ---
 
-## ✨ Key Features (The "Wow" Factor)
+## ✨ Key Features
 
 * **🧠 Multi-Agent Orchestration:** Uses LangGraph to recursively route tasks between an AI Planner, a Data Researcher, and a Budget Auditor until the user's constraints are met.
 * **🌦️ Context-Aware Reasoning:** Ingests live weather data (via `wttr.in`) to dynamically alter itinerary suggestions (e.g., suggesting indoor museums during heavy rain or extreme heat).
