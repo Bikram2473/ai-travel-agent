@@ -64,3 +64,8 @@ streamlit run app.py
 ```
 
 Open your web browser to http://localhost:8501 to start planning!
+
+### 📸 Screenshots
+![**_image_alt_**](https://github.com/Bikram2473/ai-travel-agent/blob/main/Screenshot%202026-05-25%20154309.png)</br>
+![**_image_alt_**](https://github.com/Bikram2473/ai-travel-agent/blob/main/Screenshot%202026-05-25%20154728.png)</br>
+![**_image_alt_**](https://github.com/Bikram2473/ai-travel-agent/blob/main/Screenshot%202026-05-25%20154932.png)</br>
