@@ -31,3 +31,36 @@ Follow these sequential terminal commands to stand up the project within a clean
 ```bash
 git clone [https://github.com/Bikram2473/ai-travel-agent.git](https://github.com/Bikram2473/ai-travel-agent.git)
 cd ai-travel-agent
+```
+
+### 2. Create a Virtual Environment 
+```bash
+# For Windows
+python -m venv venv
+.\venv\Scripts\activate
+
+# For Mac/Linux
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Code Snippet
+```bash
+# Get this from Google AI Studio
+GOOGLE_API_KEY=your_gemini_api_key_here
+
+# Get this from SerpApi.com
+SERPAPI_API_KEY=your_serpapi_key_here
+```
+
+### 5. Launch the Application
+```bash
+streamlit run app.py
+```
+
+Open your web browser to http://localhost:8501 to start planning!
