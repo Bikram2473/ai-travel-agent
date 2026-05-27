@@ -4,6 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red.svg)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-green.svg)
 ![Gemini](https://img.shields.io/badge/Gemini-2.5_Flash-orange.svg)
+![MCP](https://upload.wikimedia.org/wikipedia/commons/f/fe/Model_Context_Protocol_logo.svg)
 
 An enterprise-grade, autonomous AI travel planning agent built to negotiate and optimize travel itineraries dynamically. 
 
